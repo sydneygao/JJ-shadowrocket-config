@@ -2,12 +2,12 @@
 
  **Original link:**
 ```text
-https://raw.githubusercontent.com/sydneygao/JJ-shadowrocket-config/main/JJ-shadowrocket-config.conf
+https://raw.githubusercontent.com/sydneygao/JJ-shadowrocket-config/main/JJ-config.conf
 ```
 **China acceleration 🚀:**
 ```text
-https://cdn.jsdelivr.net/gh/sydneygao/JJ-shadowrocket-config@main/JJ-shadowrocket-config.conf
+https://cdn.jsdelivr.net/gh/sydneygao/JJ-shadowrocket-config@main/JJ-config.conf
 ```
 ```text
-https://git.yylx.win/raw.githubusercontent.com/sydneygao/JJ-shadowrocket-config/main/JJ-shadowrocket-config.conf
+https://git.yylx.win/raw.githubusercontent.com/sydneygao/JJ-shadowrocket-config/main/JJ-config.conf
 ```
