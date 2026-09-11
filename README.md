@@ -1,10 +1,10 @@
 # JJ-shadowrocket-config
 ## 🔗 配置下载链接
- **Original link:**
+**原生下载地址:**
 ```text
 https://raw.githubusercontent.com/sydneygao/JJ-shadowrocket-config/main/JJ-config.conf
 ```
-**China acceleration 🚀:**
+**镜像下载地址 🚀:**
 ```text
 https://cdn.jsdelivr.net/gh/sydneygao/JJ-shadowrocket-config@main/JJ-config.conf
 ```
