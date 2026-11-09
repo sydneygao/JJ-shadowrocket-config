@@ -37,4 +37,4 @@ https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country-only-cn-pri
 ```text
 https://raw.githubusercontent.com/Loyalsoldier/geoip/release/GeoLite2-ASN.mmdb
 ```
-<p align="left"><img width="1650" height="3180" alt="113" src="https://github.com/user-attachments/assets/1f3812fb-4fc4-482d-b4b9-9fd47e018779" /><img width="293" height="600" alt="111" src="https://github.com/user-attachments/assets/68256b5e-08d3-4ec4-8dd6-891706d67ad3" /></p>
+<p align="left"><img width="293" height="600" alt="113" src="https://github.com/user-attachments/assets/1f3812fb-4fc4-482d-b4b9-9fd47e018779" /><img width="293" height="600" alt="111" src="https://github.com/user-attachments/assets/68256b5e-08d3-4ec4-8dd6-891706d67ad3" /></p>
